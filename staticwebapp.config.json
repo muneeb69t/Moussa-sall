@@ -1,0 +1,10 @@
+{
+    "routes": [],
+    "navigationFallback": {
+      "rewrite": "/index.html"
+    },
+    "platform": {
+      "apiRuntime": "node:16"
+    },
+    "app_name": "Moussa-sall"
+  }
